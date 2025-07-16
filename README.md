@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Hiskander 👋
 
-<!--
-**Hskndr/Hskndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Python | SQL | Visualization
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m passionate about turning data into actionable insights. Here you’ll find projects that demonstrate my skills in data cleaning, analysis, visualization, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 Pinned Projects
+- **Customer Segmentation with K-Means**  
+  Exploratory analysis and clustering on retail data.
+
+- **COVID-19 Data Visualization Dashboard**  
+  Interactive dashboard built with Plotly and Dash.
+
+- **Sales Forecasting**  
+  Time-series forecasting using ARIMA and Prophet.
+
+### 🧰 Tools & Languages
+- Python (pandas, numpy, matplotlib, seaborn, scikit-learn)
+- SQL
+- R (tidyverse, ggplot2)
+- Tableau, Power BI
+
+### 📫 Connect with me
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Portfolio Website](https://yourwebsite.com)
+
+---
+
+<!-- Optionally add GitHub stats, activity graph, etc. using shields.io or other markdown badges -->
